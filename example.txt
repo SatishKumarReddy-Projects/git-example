@@ -1,4 +1,5 @@
 1. This is example.txt file
 2. conflict
 3. Third line is added in feature branch
-4.This is a special branch pushing to maser branch.
+5.Fifth line is added in example.txt from feature branch.
+
